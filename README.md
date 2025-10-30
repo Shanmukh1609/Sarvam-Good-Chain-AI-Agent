@@ -5,7 +5,7 @@ This project is a conversational AI agent designed for the GoodFoods restaurant 
 ## Demo Video
 
 (Must) Please include a link to your screen recording demonstrating the agent's functionality:
-[![Watch the Video](images/image.png)](./images/GoodFoodsAIAgent.mp4)
+[![Watch the Video](images/image.png)](https://drive.google.com/file/d/1ICqwilsq2pJp2f5s1R-4ZiM82PpCCHv1/view?usp=sharing)
 [Link to Demo Video Here]
 
 ## Features
