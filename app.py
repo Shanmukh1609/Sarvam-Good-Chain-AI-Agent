@@ -1,10 +1,10 @@
 import streamlit as st
-import agent  # <-- This is our "brain"
+import agent  
 import time
 import json
 import random
 
-# --- Page Configuration ---
+
 st.set_page_config(
     page_title="GoodFoods AI Agent",
     page_icon="🤖",
@@ -13,7 +13,7 @@ st.set_page_config(
 st.title("GoodFoods AI Reservation Agent 🤖")
 st.caption("I can help you find restaurants, check availability, and book a table.")
 
-# --- Session State Initialization ---
+
 if "conversation_history" not in st.session_state:
     st.session_state.conversation_history = [
         {
@@ -22,10 +22,6 @@ if "conversation_history" not in st.session_state:
         }
     ]
 
-# --- This map is NO LONGER NEEDED by app.py! ---
-# The tools.py is smart enough to handle names.
-
-# --- Display Chat History ---
 for message in st.session_state.conversation_history:
     if message["role"] == "user":
         with st.chat_message("user", avatar="👤"):
@@ -34,7 +30,7 @@ for message in st.session_state.conversation_history:
         with st.chat_message("assistant", avatar="🤖"):
             st.markdown(message["content"])
 
-# --- Handle New User Input ---
+
 if user_input := st.chat_input("What would you like to do?"):
     
     st.session_state.conversation_history.append({"role": "user", "content": user_input})

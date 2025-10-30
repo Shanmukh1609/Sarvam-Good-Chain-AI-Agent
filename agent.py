@@ -112,24 +112,24 @@ def call_cerebras_llm(conversation_history: List[Dict[str, str]]) -> Dict[str, A
         completion = client.chat.completions.create(
             model=MODEL_NAME,
             messages=messages_to_send,
-            temperature=0.4, # Lowered temperature slightly
+            temperature=0.4, 
             max_tokens=2048
         )
 
         llm_response_content = completion.choices[0].message.content
         print(f"DEBUG: LLM Raw Response:\n{llm_response_content}")
 
-        # --- SIMPLIFIED PARSING LOGIC ---
+       
         cleaned_content = llm_response_content.strip()
         original_cleaned_content = cleaned_content
 
-        # 1. Prefix Removal (Still needed)
+    
         prefixes_to_remove = ["TOOL_CALL:", "TOOL_RESULT:"]
         for prefix in prefixes_to_remove:
             cleaned_content = re.sub(f"^{re.escape(prefix)}", "", cleaned_content, flags=re.IGNORECASE).strip()
         print(f"DEBUG: Content after prefix removal:\n{cleaned_content}")
 
-        # 2. Brace Finding & Correction (Still needed)
+     
         json_string = None
         attempt_parse = False
         try:
@@ -145,28 +145,27 @@ def call_cerebras_llm(conversation_history: List[Dict[str, str]]) -> Dict[str, A
                 json_string = cleaned_content[start_index : end_index + 1].strip()
                 attempt_parse = True
                 print(f"DEBUG: Found braces. Extracted potential JSON: {json_string}")
-            elif start_index != -1 and end_index == -1: # Attempt to fix missing closing brace
+            elif start_index != -1 and end_index == -1:
                 brace_type = cleaned_content[start_index]
                 closing_brace = '}' if brace_type == '{' else ']'
                 json_string = cleaned_content[start_index:] + closing_brace
                 json_string = json_string.strip()
                 attempt_parse = True
                 print(f"DEBUG: Attempting brace correction (end): {json_string}")
-            # (Removed the less likely start-brace correction for simplicity)
-
+            
             if attempt_parse and json_string:
 
-                return json.loads(json_string) # Return valid JSON
+                return json.loads(json_string)
             else:
-                 # No braces found OR extraction failed. Assume final answer.
+                
                 print("DEBUG: No JSON braces found or extraction failed. Wrapping as final answer.")
                 return {"final_answer": original_cleaned_content}
 
         except json.JSONDecodeError as e:
-            # Parsing failed even after potential correction. Wrap original cleaned content.
+  
             print(f"DEBUG: Invalid JSON after potential correction ('{json_string}'). Error: {e}. Wrapping original cleaned text.")
             return {"final_answer": original_cleaned_content}
-        # --- END OF SIMPLIFIED PARSING LOGIC ---
+      
 
     except Exception as e:
         print(f"ERROR: Cerebras SDK call failed: {e}")
