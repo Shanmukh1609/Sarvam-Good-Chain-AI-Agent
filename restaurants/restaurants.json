@@ -1,0 +1,2621 @@
+[
+  {
+    "id": 101,
+    "name": "Bollywood Burgers",
+    "location_area": "Greater Kailash",
+    "cuisine": [
+      "Indian",
+      "American"
+    ],
+    "capacity": 90,
+    "menu": [
+      {
+        "item": "Garlic Naan",
+        "price": 50
+      },
+      {
+        "item": "Pani Puri (8 pcs)",
+        "price": 60
+      },
+      {
+        "item": "Paneer Tikka Masala",
+        "price": 220
+      },
+      {
+        "item": "Vada Pav",
+        "price": 35
+      },
+      {
+        "item": "Chole Bhature",
+        "price": 130
+      },
+      {
+        "item": "Butter Chicken",
+        "price": 260
+      },
+      {
+        "item": "Chicken Biryani",
+        "price": 220
+      },
+      {
+        "item": "Samosas (2 pcs)",
+        "price": 40
+      },
+      {
+        "item": "Pav Bhaji",
+        "price": 90
+      },
+      {
+        "item": "Bhel Puri",
+        "price": 50
+      },
+      {
+        "item": "Palak Paneer",
+        "price": 200
+      },
+      {
+        "item": "Masala Dosa",
+        "price": 80
+      }
+    ],
+    "bookings": [
+      {
+        "booking_id": "GF101596",
+        "user_name": "Surya",
+        "user_contact": "22bcs135@iiitdwd.ac.in",
+        "party_size": 4,
+        "time": "8:30 PM"
+      },
+      {
+        "booking_id": "GF101432",
+        "user_name": "Shanmukha Sai",
+        "user_contact": "22bcs135@iiitdwd.ac.in",
+        "party_size": 1,
+        "time": "7:00 PM"
+      },
+      {
+        "booking_id": "GF101368",
+        "user_name": "Shanmukha Sai",
+        "user_contact": "22bcs135iiitdwd.ac.in",
+        "party_size": 5,
+        "time": "8:00 PM"
+      },
+      {
+        "booking_id": "GF101292",
+        "user_name": "V Shanmukha Sai",
+        "user_contact": "22bcs135@iiitdwd.ac.in",
+        "party_size": 5,
+        "time": "November 4th"
+      },
+      {
+        "booking_id": "GF101122",
+        "user_name": "Shanmukh",
+        "user_contact": "22bcs135@iiitdwd.ac.in",
+        "party_size": 4,
+        "time": "8:00 PM"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Shahi Darbar",
+    "location_area": "Connaught Place",
+    "cuisine": [
+      "Indian"
+    ],
+    "capacity": 30,
+    "menu": [
+      {
+        "item": "Pav Bhaji",
+        "price": 90
+      },
+      {
+        "item": "Chicken Biryani",
+        "price": 220
+      },
+      {
+        "item": "Pani Puri (8 pcs)",
+        "price": 60
+      },
+      {
+        "item": "Palak Paneer",
+        "price": 200
+      },
+      {
+        "item": "Bhel Puri",
+        "price": 50
+      },
+      {
+        "item": "Masala Dosa",
+        "price": 80
+      },
+      {
+        "item": "Chole Bhature",
+        "price": 130
+      }
+    ],
+    "bookings": [
+      {
+        "booking_id": "GF102504",
+        "user_name": "Sai",
+        "user_contact": "shnamukhsai1609@gmail.com",
+        "party_size": 4,
+        "time": "7:00 PM"
+      },
+      {
+        "booking_id": "GF102416",
+        "user_name": "John Doe",
+        "user_contact": "1234567890",
+        "party_size": 4,
+        "time": "2024-03-16 19:00"
+      },
+      {
+        "booking_id": "GF102554",
+        "user_name": "John Doe",
+        "user_contact": "123-456-7890",
+        "party_size": 4,
+        "time": "2024-03-16 19:00"
+      },
+      {
+        "booking_id": "GF102365",
+        "user_name": "Shannnu",
+        "user_contact": "22bcs135@iiitdwd.ac.in",
+        "party_size": 4,
+        "time": "7:00PM"
+      },
+      {
+        "booking_id": "GF102124",
+        "user_name": "Aditya Raj",
+        "user_contact": "22bds002@iiitdwd.ac.in",
+        "party_size": 4,
+        "time": "7:00 PM"
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Curry Junction",
+    "location_area": "Bandra",
+    "cuisine": [
+      "Indian"
+    ],
+    "capacity": 40,
+    "menu": [
+      {
+        "item": "Vada Pav",
+        "price": 35
+      },
+      {
+        "item": "Garlic Naan",
+        "price": 50
+      },
+      {
+        "item": "Paneer Tikka Masala",
+        "price": 220
+      },
+      {
+        "item": "Butter Chicken",
+        "price": 260
+      },
+      {
+        "item": "Samosas (2 pcs)",
+        "price": 40
+      },
+      {
+        "item": "Masala Dosa",
+        "price": 80
+      },
+      {
+        "item": "Bhel Puri",
+        "price": 50
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 104,
+    "name": "Tandoori Zen",
+    "location_area": "Marine Drive",
+    "cuisine": [
+      "Japanese",
+      "Indian"
+    ],
+    "capacity": 60,
+    "menu": [
+      {
+        "item": "Chicken Teriyaki Don",
+        "price": 340
+      },
+      {
+        "item": "Tonkotsu Ramen",
+        "price": 290
+      },
+      {
+        "item": "Gyoza (6 pcs)",
+        "price": 180
+      },
+      {
+        "item": "Sushi Platter (12 pcs)",
+        "price": 480
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 105,
+    "name": "Sushi & Spaghetti Kitchen",
+    "location_area": "Bandra",
+    "cuisine": [
+      "Italian",
+      "Japanese"
+    ],
+    "capacity": 50,
+    "menu": [
+      {
+        "item": "Bruschetta",
+        "price": 120
+      },
+      {
+        "item": "Chicken Parmesan",
+        "price": 300
+      },
+      {
+        "item": "Fettuccine Alfredo",
+        "price": 220
+      },
+      {
+        "item": "Spaghetti Carbonara",
+        "price": 250
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 106,
+    "name": "Pasta Burgers Caf",
+    "location_area": "Connaught Place",
+    "cuisine": [
+      "American",
+      "Italian"
+    ],
+    "capacity": 75,
+    "menu": [
+      {
+        "item": "Mac & Cheese",
+        "price": 120
+      },
+      {
+        "item": "BBQ Ribs",
+        "price": 420
+      },
+      {
+        "item": "Classic Cheeseburger",
+        "price": 170
+      },
+      {
+        "item": "Buffalo Wings",
+        "price": 180
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 107,
+    "name": "Roma Cantina",
+    "location_area": "Hauz Khas",
+    "cuisine": [
+      "Italian",
+      "Mexican"
+    ],
+    "capacity": 30,
+    "menu": [
+      {
+        "item": "Fettuccine Alfredo",
+        "price": 220
+      },
+      {
+        "item": "Lasagna Bolognese",
+        "price": 240
+      },
+      {
+        "item": "Chicken Parmesan",
+        "price": 300
+      },
+      {
+        "item": "Bruschetta",
+        "price": 120
+      },
+      {
+        "item": "Spaghetti Carbonara",
+        "price": 250
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 108,
+    "name": "Amritsari Haveli",
+    "location_area": "Marine Drive",
+    "cuisine": [
+      "Indian"
+    ],
+    "capacity": 60,
+    "menu": [
+      {
+        "item": "Masala Dosa",
+        "price": 80
+      },
+      {
+        "item": "Garlic Naan",
+        "price": 50
+      },
+      {
+        "item": "Chicken Biryani",
+        "price": 220
+      },
+      {
+        "item": "Pav Bhaji",
+        "price": 90
+      },
+      {
+        "item": "Palak Paneer",
+        "price": 200
+      },
+      {
+        "item": "Paneer Tikka Masala",
+        "price": 220
+      },
+      {
+        "item": "Vada Pav",
+        "price": 35
+      },
+      {
+        "item": "Chole Bhature",
+        "price": 130
+      },
+      {
+        "item": "Pani Puri (8 pcs)",
+        "price": 60
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 109,
+    "name": "Wasabi Tacos Grill",
+    "location_area": "Andheri",
+    "cuisine": [
+      "Japanese",
+      "Mexican"
+    ],
+    "capacity": 100,
+    "menu": [
+      {
+        "item": "Tonkotsu Ramen",
+        "price": 290
+      },
+      {
+        "item": "Sushi Platter (12 pcs)",
+        "price": 480
+      },
+      {
+        "item": "Gyoza (6 pcs)",
+        "price": 180
+      },
+      {
+        "item": "Edamame",
+        "price": 100
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 110,
+    "name": "Grill Town",
+    "location_area": "Chandni Chowk",
+    "cuisine": [
+      "American"
+    ],
+    "capacity": 30,
+    "menu": [
+      {
+        "item": "Caesar Salad",
+        "price": 110
+      },
+      {
+        "item": "Buffalo Wings",
+        "price": 180
+      },
+      {
+        "item": "Classic Cheeseburger",
+        "price": 170
+      },
+      {
+        "item": "Mac & Cheese",
+        "price": 120
+      },
+      {
+        "item": "BBQ Ribs",
+        "price": 420
+      }
+    ],
+    "bookings": [
+      {
+        "booking_id": "GF110717",
+        "user_name": "Karthik",
+        "user_contact": "shanmukhsai1609@gmail.com",
+        "party_size": 1,
+        "time": "7:00 PM"
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "name": "Wasabi Fusion",
+    "location_area": "Marine Drive",
+    "cuisine": [
+      "Japanese"
+    ],
+    "capacity": 90,
+    "menu": [
+      {
+        "item": "Chicken Teriyaki Don",
+        "price": 340
+      },
+      {
+        "item": "Edamame",
+        "price": 100
+      },
+      {
+        "item": "Sushi Platter (12 pcs)",
+        "price": 480
+      },
+      {
+        "item": "Tonkotsu Ramen",
+        "price": 290
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 112,
+    "name": "Dakshin Delights",
+    "location_area": "Marine Drive",
+    "cuisine": [
+      "Indian"
+    ],
+    "capacity": 30,
+    "menu": [
+      {
+        "item": "Masala Dosa",
+        "price": 80
+      },
+      {
+        "item": "Bhel Puri",
+        "price": 50
+      },
+      {
+        "item": "Paneer Tikka Masala",
+        "price": 220
+      },
+      {
+        "item": "Chole Bhature",
+        "price": 130
+      },
+      {
+        "item": "Palak Paneer",
+        "price": 200
+      },
+      {
+        "item": "Pani Puri (8 pcs)",
+        "price": 60
+      },
+      {
+        "item": "Butter Chicken",
+        "price": 260
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 113,
+    "name": "Ghoomar",
+    "location_area": "Marine Drive",
+    "cuisine": [
+      "Indian"
+    ],
+    "capacity": 60,
+    "menu": [
+      {
+        "item": "Pav Bhaji",
+        "price": 90
+      },
+      {
+        "item": "Bhel Puri",
+        "price": 50
+      },
+      {
+        "item": "Palak Paneer",
+        "price": 200
+      },
+      {
+        "item": "Samosas (2 pcs)",
+        "price": 40
+      },
+      {
+        "item": "Paneer Tikka Masala",
+        "price": 220
+      },
+      {
+        "item": "Butter Chicken",
+        "price": 260
+      },
+      {
+        "item": "Masala Dosa",
+        "price": 80
+      },
+      {
+        "item": "Vada Pav",
+        "price": 35
+      },
+      {
+        "item": "Pani Puri (8 pcs)",
+        "price": 60
+      },
+      {
+        "item": "Garlic Naan",
+        "price": 50
+      },
+      {
+        "item": "Chicken Biryani",
+        "price": 220
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 114,
+    "name": "Boulevard Eats",
+    "location_area": "Greater Kailash",
+    "cuisine": [
+      "American"
+    ],
+    "capacity": 90,
+    "menu": [
+      {
+        "item": "Mac & Cheese",
+        "price": 120
+      },
+      {
+        "item": "Buffalo Wings",
+        "price": 180
+      },
+      {
+        "item": "Classic Cheeseburger",
+        "price": 170
+      },
+      {
+        "item": "BBQ Ribs",
+        "price": 420
+      },
+      {
+        "item": "Caesar Salad",
+        "price": 110
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 115,
+    "name": "Wasabi Fusion",
+    "location_area": "Greater Kailash",
+    "cuisine": [
+      "Japanese"
+    ],
+    "capacity": 90,
+    "menu": [
+      {
+        "item": "Gyoza (6 pcs)",
+        "price": 180
+      },
+      {
+        "item": "Tonkotsu Ramen",
+        "price": 290
+      },
+      {
+        "item": "Edamame",
+        "price": 100
+      },
+      {
+        "item": "Sushi Platter (12 pcs)",
+        "price": 480
+      },
+      {
+        "item": "Chicken Teriyaki Don",
+        "price": 340
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 116,
+    "name": "Tokyo Diner",
+    "location_area": "Chandni Chowk",
+    "cuisine": [
+      "Japanese"
+    ],
+    "capacity": 60,
+    "menu": [
+      {
+        "item": "Gyoza (6 pcs)",
+        "price": 180
+      },
+      {
+        "item": "Tonkotsu Ramen",
+        "price": 290
+      },
+      {
+        "item": "Chicken Teriyaki Don",
+        "price": 340
+      },
+      {
+        "item": "Sushi Platter (12 pcs)",
+        "price": 480
+      },
+      {
+        "item": "Edamame",
+        "price": 100
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 117,
+    "name": "Route 66 Grill",
+    "location_area": "Andheri",
+    "cuisine": [
+      "American"
+    ],
+    "capacity": 40,
+    "menu": [
+      {
+        "item": "BBQ Ribs",
+        "price": 420
+      },
+      {
+        "item": "Caesar Salad",
+        "price": 110
+      },
+      {
+        "item": "Classic Cheeseburger",
+        "price": 170
+      },
+      {
+        "item": "Mac & Cheese",
+        "price": 120
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 118,
+    "name": "Sakura House",
+    "location_area": "Connaught Place",
+    "cuisine": [
+      "Japanese"
+    ],
+    "capacity": 30,
+    "menu": [
+      {
+        "item": "Edamame",
+        "price": 100
+      },
+      {
+        "item": "Gyoza (6 pcs)",
+        "price": 180
+      },
+      {
+        "item": "Tonkotsu Ramen",
+        "price": 290
+      },
+      {
+        "item": "Chicken Teriyaki Don",
+        "price": 340
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 119,
+    "name": "Pasta Burgers Caf",
+    "location_area": "Connaught Place",
+    "cuisine": [
+      "American",
+      "Italian"
+    ],
+    "capacity": 30,
+    "menu": [
+      {
+        "item": "Buffalo Wings",
+        "price": 180
+      },
+      {
+        "item": "Caesar Salad",
+        "price": 110
+      },
+      {
+        "item": "BBQ Ribs",
+        "price": 420
+      },
+      {
+        "item": "Mac & Cheese",
+        "price": 120
+      },
+      {
+        "item": "Classic Cheeseburger",
+        "price": 170
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 120,
+    "name": "Pind Balluchi",
+    "location_area": "Hauz Khas",
+    "cuisine": [
+      "Indian"
+    ],
+    "capacity": 50,
+    "menu": [
+      {
+        "item": "Chole Bhature",
+        "price": 130
+      },
+      {
+        "item": "Paneer Tikka Masala",
+        "price": 220
+      },
+      {
+        "item": "Butter Chicken",
+        "price": 260
+      },
+      {
+        "item": "Samosas (2 pcs)",
+        "price": 40
+      },
+      {
+        "item": "Chicken Biryani",
+        "price": 220
+      },
+      {
+        "item": "Palak Paneer",
+        "price": 200
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 121,
+    "name": "Sushi Cantina",
+    "location_area": "Bandra",
+    "cuisine": [
+      "Mexican",
+      "Japanese"
+    ],
+    "capacity": 100,
+    "menu": [
+      {
+        "item": "Chicken Enchiladas",
+        "price": 210
+      },
+      {
+        "item": "Guacamole & Chips",
+        "price": 140
+      },
+      {
+        "item": "Queso Fundido",
+        "price": 130
+      },
+      {
+        "item": "Carne Asada Tacos",
+        "price": 180
+      },
+      {
+        "item": "Burrito Bowl",
+        "price": 160
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 122,
+    "name": "Yankee Kitchen",
+    "location_area": "Greater Kailash",
+    "cuisine": [
+      "American"
+    ],
+    "capacity": 40,
+    "menu": [
+      {
+        "item": "Classic Cheeseburger",
+        "price": 170
+      },
+      {
+        "item": "Mac & Cheese",
+        "price": 120
+      },
+      {
+        "item": "BBQ Ribs",
+        "price": 420
+      },
+      {
+        "item": "Caesar Salad",
+        "price": 110
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 123,
+    "name": "Tokyo Corner",
+    "location_area": "Bandra",
+    "cuisine": [
+      "Japanese"
+    ],
+    "capacity": 75,
+    "menu": [
+      {
+        "item": "Edamame",
+        "price": 100
+      },
+      {
+        "item": "Chicken Teriyaki Don",
+        "price": 340
+      },
+      {
+        "item": "Tonkotsu Ramen",
+        "price": 290
+      },
+      {
+        "item": "Gyoza (6 pcs)",
+        "price": 180
+      },
+      {
+        "item": "Sushi Platter (12 pcs)",
+        "price": 480
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 124,
+    "name": "Desi Chaska",
+    "location_area": "Bandra",
+    "cuisine": [
+      "Indian"
+    ],
+    "capacity": 100,
+    "menu": [
+      {
+        "item": "Bhel Puri",
+        "price": 50
+      },
+      {
+        "item": "Chicken Biryani",
+        "price": 220
+      },
+      {
+        "item": "Palak Paneer",
+        "price": 200
+      },
+      {
+        "item": "Butter Chicken",
+        "price": 260
+      },
+      {
+        "item": "Garlic Naan",
+        "price": 50
+      },
+      {
+        "item": "Samosas (2 pcs)",
+        "price": 40
+      },
+      {
+        "item": "Pani Puri (8 pcs)",
+        "price": 60
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 125,
+    "name": "La Tavola",
+    "location_area": "Andheri",
+    "cuisine": [
+      "Italian"
+    ],
+    "capacity": 40,
+    "menu": [
+      {
+        "item": "Chicken Parmesan",
+        "price": 300
+      },
+      {
+        "item": "Lasagna Bolognese",
+        "price": 240
+      },
+      {
+        "item": "Spaghetti Carbonara",
+        "price": 250
+      },
+      {
+        "item": "Margherita Pizza",
+        "price": 190
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 126,
+    "name": "Classic Bites",
+    "location_area": "Greater Kailash",
+    "cuisine": [
+      "American"
+    ],
+    "capacity": 60,
+    "menu": [
+      {
+        "item": "Classic Cheeseburger",
+        "price": 170
+      },
+      {
+        "item": "Caesar Salad",
+        "price": 110
+      },
+      {
+        "item": "Buffalo Wings",
+        "price": 180
+      },
+      {
+        "item": "BBQ Ribs",
+        "price": 420
+      },
+      {
+        "item": "Mac & Cheese",
+        "price": 120
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 127,
+    "name": "Curry Burrito House",
+    "location_area": "Greater Kailash",
+    "cuisine": [
+      "Mexican",
+      "Indian"
+    ],
+    "capacity": 90,
+    "menu": [
+      {
+        "item": "Queso Fundido",
+        "price": 130
+      },
+      {
+        "item": "Carne Asada Tacos",
+        "price": 180
+      },
+      {
+        "item": "Guacamole & Chips",
+        "price": 140
+      },
+      {
+        "item": "Burrito Bowl",
+        "price": 160
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 128,
+    "name": "Wasabi Fusion",
+    "location_area": "Bandra",
+    "cuisine": [
+      "Japanese"
+    ],
+    "capacity": 100,
+    "menu": [
+      {
+        "item": "Chicken Teriyaki Don",
+        "price": 340
+      },
+      {
+        "item": "Gyoza (6 pcs)",
+        "price": 180
+      },
+      {
+        "item": "Edamame",
+        "price": 100
+      },
+      {
+        "item": "Sushi Platter (12 pcs)",
+        "price": 480
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 129,
+    "name": "Tokyo Diner",
+    "location_area": "Andheri",
+    "cuisine": [
+      "Japanese"
+    ],
+    "capacity": 40,
+    "menu": [
+      {
+        "item": "Tonkotsu Ramen",
+        "price": 290
+      },
+      {
+        "item": "Chicken Teriyaki Don",
+        "price": 340
+      },
+      {
+        "item": "Edamame",
+        "price": 100
+      },
+      {
+        "item": "Gyoza (6 pcs)",
+        "price": 180
+      },
+      {
+        "item": "Sushi Platter (12 pcs)",
+        "price": 480
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 130,
+    "name": "Tokyo Diner",
+    "location_area": "Hauz Khas",
+    "cuisine": [
+      "American",
+      "Japanese"
+    ],
+    "capacity": 50,
+    "menu": [
+      {
+        "item": "Buffalo Wings",
+        "price": 180
+      },
+      {
+        "item": "Mac & Cheese",
+        "price": 120
+      },
+      {
+        "item": "BBQ Ribs",
+        "price": 420
+      },
+      {
+        "item": "Caesar Salad",
+        "price": 110
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 131,
+    "name": "Classic Bites",
+    "location_area": "Chandni Chowk",
+    "cuisine": [
+      "American"
+    ],
+    "capacity": 100,
+    "menu": [
+      {
+        "item": "BBQ Ribs",
+        "price": 420
+      },
+      {
+        "item": "Mac & Cheese",
+        "price": 120
+      },
+      {
+        "item": "Classic Cheeseburger",
+        "price": 170
+      },
+      {
+        "item": "Caesar Salad",
+        "price": 110
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 132,
+    "name": "Curry & Cheeseburger Caf",
+    "location_area": "Bandra",
+    "cuisine": [
+      "Indian",
+      "American"
+    ],
+    "capacity": 90,
+    "menu": [
+      {
+        "item": "Garlic Naan",
+        "price": 50
+      },
+      {
+        "item": "Chole Bhature",
+        "price": 130
+      },
+      {
+        "item": "Pani Puri (8 pcs)",
+        "price": 60
+      },
+      {
+        "item": "Samosas (2 pcs)",
+        "price": 40
+      },
+      {
+        "item": "Paneer Tikka Masala",
+        "price": 220
+      },
+      {
+        "item": "Masala Dosa",
+        "price": 80
+      },
+      {
+        "item": "Bhel Puri",
+        "price": 50
+      },
+      {
+        "item": "Vada Pav",
+        "price": 35
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 133,
+    "name": "Sushi Burger Bar",
+    "location_area": "Greater Kailash",
+    "cuisine": [
+      "American",
+      "Japanese"
+    ],
+    "capacity": 60,
+    "menu": [
+      {
+        "item": "Caesar Salad",
+        "price": 110
+      },
+      {
+        "item": "Buffalo Wings",
+        "price": 180
+      },
+      {
+        "item": "Classic Cheeseburger",
+        "price": 170
+      },
+      {
+        "item": "Mac & Cheese",
+        "price": 120
+      },
+      {
+        "item": "BBQ Ribs",
+        "price": 420
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 134,
+    "name": "Wasabi Tacos Grill",
+    "location_area": "Greater Kailash",
+    "cuisine": [
+      "Mexican",
+      "Japanese"
+    ],
+    "capacity": 90,
+    "menu": [
+      {
+        "item": "Carne Asada Tacos",
+        "price": 180
+      },
+      {
+        "item": "Guacamole & Chips",
+        "price": 140
+      },
+      {
+        "item": "Queso Fundido",
+        "price": 130
+      },
+      {
+        "item": "Chicken Enchiladas",
+        "price": 210
+      },
+      {
+        "item": "Burrito Bowl",
+        "price": 160
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 135,
+    "name": "Ramen Roma",
+    "location_area": "Andheri",
+    "cuisine": [
+      "Japanese",
+      "Italian"
+    ],
+    "capacity": 60,
+    "menu": [
+      {
+        "item": "Edamame",
+        "price": 100
+      },
+      {
+        "item": "Sushi Platter (12 pcs)",
+        "price": 480
+      },
+      {
+        "item": "Tonkotsu Ramen",
+        "price": 290
+      },
+      {
+        "item": "Chicken Teriyaki Don",
+        "price": 340
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 136,
+    "name": "Tokyo Diner",
+    "location_area": "Chandni Chowk",
+    "cuisine": [
+      "Japanese",
+      "American"
+    ],
+    "capacity": 30,
+    "menu": [
+      {
+        "item": "Sushi Platter (12 pcs)",
+        "price": 480
+      },
+      {
+        "item": "Gyoza (6 pcs)",
+        "price": 180
+      },
+      {
+        "item": "Tonkotsu Ramen",
+        "price": 290
+      },
+      {
+        "item": "Edamame",
+        "price": 100
+      },
+      {
+        "item": "Chicken Teriyaki Don",
+        "price": 340
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 137,
+    "name": "Liberty Diner",
+    "location_area": "Andheri",
+    "cuisine": [
+      "American"
+    ],
+    "capacity": 60,
+    "menu": [
+      {
+        "item": "BBQ Ribs",
+        "price": 420
+      },
+      {
+        "item": "Classic Cheeseburger",
+        "price": 170
+      },
+      {
+        "item": "Mac & Cheese",
+        "price": 120
+      },
+      {
+        "item": "Caesar Salad",
+        "price": 110
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 138,
+    "name": "Kesar Kasturi",
+    "location_area": "Bandra",
+    "cuisine": [
+      "Indian"
+    ],
+    "capacity": 50,
+    "menu": [
+      {
+        "item": "Masala Dosa",
+        "price": 80
+      },
+      {
+        "item": "Garlic Naan",
+        "price": 50
+      },
+      {
+        "item": "Bhel Puri",
+        "price": 50
+      },
+      {
+        "item": "Pani Puri (8 pcs)",
+        "price": 60
+      },
+      {
+        "item": "Vada Pav",
+        "price": 35
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 139,
+    "name": "Sushi Bento",
+    "location_area": "Connaught Place",
+    "cuisine": [
+      "Japanese"
+    ],
+    "capacity": 40,
+    "menu": [
+      {
+        "item": "Gyoza (6 pcs)",
+        "price": 180
+      },
+      {
+        "item": "Edamame",
+        "price": 100
+      },
+      {
+        "item": "Tonkotsu Ramen",
+        "price": 290
+      },
+      {
+        "item": "Chicken Teriyaki Don",
+        "price": 340
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 140,
+    "name": "Wasabi Tacos Grill",
+    "location_area": "Andheri",
+    "cuisine": [
+      "Japanese",
+      "Mexican"
+    ],
+    "capacity": 50,
+    "menu": [
+      {
+        "item": "Gyoza (6 pcs)",
+        "price": 180
+      },
+      {
+        "item": "Tonkotsu Ramen",
+        "price": 290
+      },
+      {
+        "item": "Sushi Platter (12 pcs)",
+        "price": 480
+      },
+      {
+        "item": "Edamame",
+        "price": 100
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 141,
+    "name": "Wasabi Tacos Grill",
+    "location_area": "Marine Drive",
+    "cuisine": [
+      "Mexican",
+      "Japanese"
+    ],
+    "capacity": 60,
+    "menu": [
+      {
+        "item": "Queso Fundido",
+        "price": 130
+      },
+      {
+        "item": "Guacamole & Chips",
+        "price": 140
+      },
+      {
+        "item": "Carne Asada Tacos",
+        "price": 180
+      },
+      {
+        "item": "Chicken Enchiladas",
+        "price": 210
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 142,
+    "name": "El Camino",
+    "location_area": "Chandni Chowk",
+    "cuisine": [
+      "Mexican"
+    ],
+    "capacity": 100,
+    "menu": [
+      {
+        "item": "Carne Asada Tacos",
+        "price": 180
+      },
+      {
+        "item": "Guacamole & Chips",
+        "price": 140
+      },
+      {
+        "item": "Chicken Enchiladas",
+        "price": 210
+      },
+      {
+        "item": "Queso Fundido",
+        "price": 130
+      },
+      {
+        "item": "Burrito Bowl",
+        "price": 160
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 143,
+    "name": "Taqueria Azul",
+    "location_area": "Chandni Chowk",
+    "cuisine": [
+      "Mexican"
+    ],
+    "capacity": 60,
+    "menu": [
+      {
+        "item": "Carne Asada Tacos",
+        "price": 180
+      },
+      {
+        "item": "Guacamole & Chips",
+        "price": 140
+      },
+      {
+        "item": "Burrito Bowl",
+        "price": 160
+      },
+      {
+        "item": "Queso Fundido",
+        "price": 130
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 144,
+    "name": "Sushi Bento",
+    "location_area": "Greater Kailash",
+    "cuisine": [
+      "Japanese"
+    ],
+    "capacity": 40,
+    "menu": [
+      {
+        "item": "Sushi Platter (12 pcs)",
+        "price": 480
+      },
+      {
+        "item": "Tonkotsu Ramen",
+        "price": 290
+      },
+      {
+        "item": "Chicken Teriyaki Don",
+        "price": 340
+      },
+      {
+        "item": "Edamame",
+        "price": 100
+      },
+      {
+        "item": "Gyoza (6 pcs)",
+        "price": 180
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 145,
+    "name": "Kebab-e-Que",
+    "location_area": "Greater Kailash",
+    "cuisine": [
+      "Indian"
+    ],
+    "capacity": 40,
+    "menu": [
+      {
+        "item": "Pani Puri (8 pcs)",
+        "price": 60
+      },
+      {
+        "item": "Chicken Biryani",
+        "price": 220
+      },
+      {
+        "item": "Chole Bhature",
+        "price": 130
+      },
+      {
+        "item": "Butter Chicken",
+        "price": 260
+      },
+      {
+        "item": "Masala Dosa",
+        "price": 80
+      },
+      {
+        "item": "Bhel Puri",
+        "price": 50
+      },
+      {
+        "item": "Paneer Tikka Masala",
+        "price": 220
+      },
+      {
+        "item": "Samosas (2 pcs)",
+        "price": 40
+      },
+      {
+        "item": "Garlic Naan",
+        "price": 50
+      },
+      {
+        "item": "Pav Bhaji",
+        "price": 90
+      },
+      {
+        "item": "Vada Pav",
+        "price": 35
+      },
+      {
+        "item": "Palak Paneer",
+        "price": 200
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 146,
+    "name": "Bella Cucina",
+    "location_area": "Marine Drive",
+    "cuisine": [
+      "Italian"
+    ],
+    "capacity": 40,
+    "menu": [
+      {
+        "item": "Spaghetti Carbonara",
+        "price": 250
+      },
+      {
+        "item": "Margherita Pizza",
+        "price": 190
+      },
+      {
+        "item": "Bruschetta",
+        "price": 120
+      },
+      {
+        "item": "Fettuccine Alfredo",
+        "price": 220
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 147,
+    "name": "Yankee Kitchen",
+    "location_area": "Marine Drive",
+    "cuisine": [
+      "American"
+    ],
+    "capacity": 75,
+    "menu": [
+      {
+        "item": "Mac & Cheese",
+        "price": 120
+      },
+      {
+        "item": "Classic Cheeseburger",
+        "price": 170
+      },
+      {
+        "item": "Caesar Salad",
+        "price": 110
+      },
+      {
+        "item": "Buffalo Wings",
+        "price": 180
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 148,
+    "name": "Bella Cucina",
+    "location_area": "Greater Kailash",
+    "cuisine": [
+      "Italian"
+    ],
+    "capacity": 40,
+    "menu": [
+      {
+        "item": "Spaghetti Carbonara",
+        "price": 250
+      },
+      {
+        "item": "Fettuccine Alfredo",
+        "price": 220
+      },
+      {
+        "item": "Lasagna Bolognese",
+        "price": 240
+      },
+      {
+        "item": "Margherita Pizza",
+        "price": 190
+      },
+      {
+        "item": "Chicken Parmesan",
+        "price": 300
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 149,
+    "name": "Casa del Sabor",
+    "location_area": "Hauz Khas",
+    "cuisine": [
+      "Mexican"
+    ],
+    "capacity": 75,
+    "menu": [
+      {
+        "item": "Carne Asada Tacos",
+        "price": 180
+      },
+      {
+        "item": "Chicken Enchiladas",
+        "price": 210
+      },
+      {
+        "item": "Guacamole & Chips",
+        "price": 140
+      },
+      {
+        "item": "Burrito Bowl",
+        "price": 160
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 150,
+    "name": "Brooklyn Cucina",
+    "location_area": "Greater Kailash",
+    "cuisine": [
+      "Italian"
+    ],
+    "capacity": 75,
+    "menu": [
+      {
+        "item": "Bruschetta",
+        "price": 120
+      },
+      {
+        "item": "Chicken Parmesan",
+        "price": 300
+      },
+      {
+        "item": "Margherita Pizza",
+        "price": 190
+      },
+      {
+        "item": "Fettuccine Alfredo",
+        "price": 220
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 151,
+    "name": "Nacho Diner",
+    "location_area": "Andheri",
+    "cuisine": [
+      "Mexican"
+    ],
+    "capacity": 100,
+    "menu": [
+      {
+        "item": "Queso Fundido",
+        "price": 130
+      },
+      {
+        "item": "Burrito Bowl",
+        "price": 160
+      },
+      {
+        "item": "Carne Asada Tacos",
+        "price": 180
+      },
+      {
+        "item": "Guacamole & Chips",
+        "price": 140
+      },
+      {
+        "item": "Chicken Enchiladas",
+        "price": 210
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 152,
+    "name": "Pasta Burgers Caf",
+    "location_area": "Greater Kailash",
+    "cuisine": [
+      "Italian",
+      "American"
+    ],
+    "capacity": 60,
+    "menu": [
+      {
+        "item": "Bruschetta",
+        "price": 120
+      },
+      {
+        "item": "Spaghetti Carbonara",
+        "price": 250
+      },
+      {
+        "item": "Lasagna Bolognese",
+        "price": 240
+      },
+      {
+        "item": "Fettuccine Alfredo",
+        "price": 220
+      },
+      {
+        "item": "Chicken Parmesan",
+        "price": 300
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 153,
+    "name": "Route 66 Grill",
+    "location_area": "Chandni Chowk",
+    "cuisine": [
+      "American"
+    ],
+    "capacity": 100,
+    "menu": [
+      {
+        "item": "Mac & Cheese",
+        "price": 120
+      },
+      {
+        "item": "BBQ Ribs",
+        "price": 420
+      },
+      {
+        "item": "Buffalo Wings",
+        "price": 180
+      },
+      {
+        "item": "Caesar Salad",
+        "price": 110
+      },
+      {
+        "item": "Classic Cheeseburger",
+        "price": 170
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 154,
+    "name": "Classic Bites",
+    "location_area": "Marine Drive",
+    "cuisine": [
+      "American"
+    ],
+    "capacity": 90,
+    "menu": [
+      {
+        "item": "Classic Cheeseburger",
+        "price": 170
+      },
+      {
+        "item": "Caesar Salad",
+        "price": 110
+      },
+      {
+        "item": "Buffalo Wings",
+        "price": 180
+      },
+      {
+        "item": "Mac & Cheese",
+        "price": 120
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 155,
+    "name": "Samurai Steakhouse",
+    "location_area": "Chandni Chowk",
+    "cuisine": [
+      "American",
+      "Japanese"
+    ],
+    "capacity": 60,
+    "menu": [
+      {
+        "item": "BBQ Ribs",
+        "price": 420
+      },
+      {
+        "item": "Classic Cheeseburger",
+        "price": 170
+      },
+      {
+        "item": "Buffalo Wings",
+        "price": 180
+      },
+      {
+        "item": "Caesar Salad",
+        "price": 110
+      },
+      {
+        "item": "Mac & Cheese",
+        "price": 120
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 156,
+    "name": "Viva Mxico",
+    "location_area": "Connaught Place",
+    "cuisine": [
+      "Mexican"
+    ],
+    "capacity": 90,
+    "menu": [
+      {
+        "item": "Carne Asada Tacos",
+        "price": 180
+      },
+      {
+        "item": "Chicken Enchiladas",
+        "price": 210
+      },
+      {
+        "item": "Burrito Bowl",
+        "price": 160
+      },
+      {
+        "item": "Guacamole & Chips",
+        "price": 140
+      },
+      {
+        "item": "Queso Fundido",
+        "price": 130
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 157,
+    "name": "Brooklyn Cucina",
+    "location_area": "Connaught Place",
+    "cuisine": [
+      "Italian"
+    ],
+    "capacity": 75,
+    "menu": [
+      {
+        "item": "Chicken Parmesan",
+        "price": 300
+      },
+      {
+        "item": "Margherita Pizza",
+        "price": 190
+      },
+      {
+        "item": "Lasagna Bolognese",
+        "price": 240
+      },
+      {
+        "item": "Spaghetti Carbonara",
+        "price": 250
+      },
+      {
+        "item": "Bruschetta",
+        "price": 120
+      },
+      {
+        "item": "Fettuccine Alfredo",
+        "price": 220
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 158,
+    "name": "Harvest Table",
+    "location_area": "Andheri",
+    "cuisine": [
+      "American"
+    ],
+    "capacity": 100,
+    "menu": [
+      {
+        "item": "Classic Cheeseburger",
+        "price": 170
+      },
+      {
+        "item": "Mac & Cheese",
+        "price": 120
+      },
+      {
+        "item": "Caesar Salad",
+        "price": 110
+      },
+      {
+        "item": "Buffalo Wings",
+        "price": 180
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 159,
+    "name": "Nacho Diner",
+    "location_area": "Marine Drive",
+    "cuisine": [
+      "Mexican",
+      "American"
+    ],
+    "capacity": 100,
+    "menu": [
+      {
+        "item": "Carne Asada Tacos",
+        "price": 180
+      },
+      {
+        "item": "Chicken Enchiladas",
+        "price": 210
+      },
+      {
+        "item": "Burrito Bowl",
+        "price": 160
+      },
+      {
+        "item": "Guacamole & Chips",
+        "price": 140
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 160,
+    "name": "Ramen Republic",
+    "location_area": "Andheri",
+    "cuisine": [
+      "Japanese"
+    ],
+    "capacity": 60,
+    "menu": [
+      {
+        "item": "Sushi Platter (12 pcs)",
+        "price": 480
+      },
+      {
+        "item": "Tonkotsu Ramen",
+        "price": 290
+      },
+      {
+        "item": "Chicken Teriyaki Don",
+        "price": 340
+      },
+      {
+        "item": "Edamame",
+        "price": 100
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 161,
+    "name": "Tokyo Taqueria",
+    "location_area": "Chandni Chowk",
+    "cuisine": [
+      "Mexican",
+      "Japanese"
+    ],
+    "capacity": 30,
+    "menu": [
+      {
+        "item": "Queso Fundido",
+        "price": 130
+      },
+      {
+        "item": "Carne Asada Tacos",
+        "price": 180
+      },
+      {
+        "item": "Chicken Enchiladas",
+        "price": 210
+      },
+      {
+        "item": "Guacamole & Chips",
+        "price": 140
+      },
+      {
+        "item": "Burrito Bowl",
+        "price": 160
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 162,
+    "name": "El Camino",
+    "location_area": "Hauz Khas",
+    "cuisine": [
+      "Mexican"
+    ],
+    "capacity": 60,
+    "menu": [
+      {
+        "item": "Burrito Bowl",
+        "price": 160
+      },
+      {
+        "item": "Queso Fundido",
+        "price": 130
+      },
+      {
+        "item": "Chicken Enchiladas",
+        "price": 210
+      },
+      {
+        "item": "Carne Asada Tacos",
+        "price": 180
+      },
+      {
+        "item": "Guacamole & Chips",
+        "price": 140
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 163,
+    "name": "Shahi Darbar",
+    "location_area": "Connaught Place",
+    "cuisine": [
+      "Indian"
+    ],
+    "capacity": 40,
+    "menu": [
+      {
+        "item": "Pani Puri (8 pcs)",
+        "price": 60
+      },
+      {
+        "item": "Butter Chicken",
+        "price": 260
+      },
+      {
+        "item": "Chicken Biryani",
+        "price": 220
+      },
+      {
+        "item": "Paneer Tikka Masala",
+        "price": 220
+      },
+      {
+        "item": "Palak Paneer",
+        "price": 200
+      },
+      {
+        "item": "Garlic Naan",
+        "price": 50
+      },
+      {
+        "item": "Masala Dosa",
+        "price": 80
+      },
+      {
+        "item": "Vada Pav",
+        "price": 35
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 164,
+    "name": "Ramen Roma",
+    "location_area": "Marine Drive",
+    "cuisine": [
+      "Italian",
+      "Japanese"
+    ],
+    "capacity": 60,
+    "menu": [
+      {
+        "item": "Fettuccine Alfredo",
+        "price": 220
+      },
+      {
+        "item": "Chicken Parmesan",
+        "price": 300
+      },
+      {
+        "item": "Bruschetta",
+        "price": 120
+      },
+      {
+        "item": "Lasagna Bolognese",
+        "price": 240
+      },
+      {
+        "item": "Spaghetti Carbonara",
+        "price": 250
+      },
+      {
+        "item": "Margherita Pizza",
+        "price": 190
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 165,
+    "name": "Curry & Cheeseburger Caf",
+    "location_area": "Hauz Khas",
+    "cuisine": [
+      "Indian",
+      "American"
+    ],
+    "capacity": 30,
+    "menu": [
+      {
+        "item": "Chicken Biryani",
+        "price": 220
+      },
+      {
+        "item": "Vada Pav",
+        "price": 35
+      },
+      {
+        "item": "Pani Puri (8 pcs)",
+        "price": 60
+      },
+      {
+        "item": "Samosas (2 pcs)",
+        "price": 40
+      },
+      {
+        "item": "Paneer Tikka Masala",
+        "price": 220
+      },
+      {
+        "item": "Bhel Puri",
+        "price": 50
+      },
+      {
+        "item": "Garlic Naan",
+        "price": 50
+      },
+      {
+        "item": "Masala Dosa",
+        "price": 80
+      },
+      {
+        "item": "Chole Bhature",
+        "price": 130
+      },
+      {
+        "item": "Pav Bhaji",
+        "price": 90
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 166,
+    "name": "Spice Route",
+    "location_area": "Andheri",
+    "cuisine": [
+      "Indian"
+    ],
+    "capacity": 60,
+    "menu": [
+      {
+        "item": "Chole Bhature",
+        "price": 130
+      },
+      {
+        "item": "Masala Dosa",
+        "price": 80
+      },
+      {
+        "item": "Pav Bhaji",
+        "price": 90
+      },
+      {
+        "item": "Vada Pav",
+        "price": 35
+      },
+      {
+        "item": "Samosas (2 pcs)",
+        "price": 40
+      },
+      {
+        "item": "Garlic Naan",
+        "price": 50
+      },
+      {
+        "item": "Pani Puri (8 pcs)",
+        "price": 60
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 167,
+    "name": "Classic Bites",
+    "location_area": "Bandra",
+    "cuisine": [
+      "American"
+    ],
+    "capacity": 90,
+    "menu": [
+      {
+        "item": "Mac & Cheese",
+        "price": 120
+      },
+      {
+        "item": "Caesar Salad",
+        "price": 110
+      },
+      {
+        "item": "Classic Cheeseburger",
+        "price": 170
+      },
+      {
+        "item": "BBQ Ribs",
+        "price": 420
+      },
+      {
+        "item": "Buffalo Wings",
+        "price": 180
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 168,
+    "name": "Spice Route",
+    "location_area": "Bandra",
+    "cuisine": [
+      "Indian"
+    ],
+    "capacity": 40,
+    "menu": [
+      {
+        "item": "Masala Dosa",
+        "price": 80
+      },
+      {
+        "item": "Garlic Naan",
+        "price": 50
+      },
+      {
+        "item": "Paneer Tikka Masala",
+        "price": 220
+      },
+      {
+        "item": "Pav Bhaji",
+        "price": 90
+      },
+      {
+        "item": "Butter Chicken",
+        "price": 260
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 169,
+    "name": "Mumbai Mexicana",
+    "location_area": "Connaught Place",
+    "cuisine": [
+      "Indian",
+      "Mexican"
+    ],
+    "capacity": 30,
+    "menu": [
+      {
+        "item": "Chicken Biryani",
+        "price": 220
+      },
+      {
+        "item": "Pav Bhaji",
+        "price": 90
+      },
+      {
+        "item": "Masala Dosa",
+        "price": 80
+      },
+      {
+        "item": "Palak Paneer",
+        "price": 200
+      },
+      {
+        "item": "Chole Bhature",
+        "price": 130
+      },
+      {
+        "item": "Vada Pav",
+        "price": 35
+      },
+      {
+        "item": "Butter Chicken",
+        "price": 260
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 170,
+    "name": "Sushi Burger Bar",
+    "location_area": "Andheri",
+    "cuisine": [
+      "American",
+      "Japanese"
+    ],
+    "capacity": 50,
+    "menu": [
+      {
+        "item": "Classic Cheeseburger",
+        "price": 170
+      },
+      {
+        "item": "Buffalo Wings",
+        "price": 180
+      },
+      {
+        "item": "BBQ Ribs",
+        "price": 420
+      },
+      {
+        "item": "Caesar Salad",
+        "price": 110
+      },
+      {
+        "item": "Mac & Cheese",
+        "price": 120
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 171,
+    "name": "Masala Mozzarella",
+    "location_area": "Connaught Place",
+    "cuisine": [
+      "Indian",
+      "Italian"
+    ],
+    "capacity": 50,
+    "menu": [
+      {
+        "item": "Butter Chicken",
+        "price": 260
+      },
+      {
+        "item": "Vada Pav",
+        "price": 35
+      },
+      {
+        "item": "Samosas (2 pcs)",
+        "price": 40
+      },
+      {
+        "item": "Pav Bhaji",
+        "price": 90
+      },
+      {
+        "item": "Paneer Tikka Masala",
+        "price": 220
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 172,
+    "name": "Route 66 Grill",
+    "location_area": "Hauz Khas",
+    "cuisine": [
+      "American"
+    ],
+    "capacity": 30,
+    "menu": [
+      {
+        "item": "Buffalo Wings",
+        "price": 180
+      },
+      {
+        "item": "Classic Cheeseburger",
+        "price": 170
+      },
+      {
+        "item": "BBQ Ribs",
+        "price": 420
+      },
+      {
+        "item": "Mac & Cheese",
+        "price": 120
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 173,
+    "name": "Spice Route",
+    "location_area": "Chandni Chowk",
+    "cuisine": [
+      "Indian"
+    ],
+    "capacity": 40,
+    "menu": [
+      {
+        "item": "Paneer Tikka Masala",
+        "price": 220
+      },
+      {
+        "item": "Bhel Puri",
+        "price": 50
+      },
+      {
+        "item": "Butter Chicken",
+        "price": 260
+      },
+      {
+        "item": "Palak Paneer",
+        "price": 200
+      },
+      {
+        "item": "Garlic Naan",
+        "price": 50
+      },
+      {
+        "item": "Samosas (2 pcs)",
+        "price": 40
+      },
+      {
+        "item": "Pani Puri (8 pcs)",
+        "price": 60
+      },
+      {
+        "item": "Vada Pav",
+        "price": 35
+      },
+      {
+        "item": "Masala Dosa",
+        "price": 80
+      },
+      {
+        "item": "Chicken Biryani",
+        "price": 220
+      },
+      {
+        "item": "Pav Bhaji",
+        "price": 90
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 174,
+    "name": "Fettuccine Fiesta",
+    "location_area": "Greater Kailash",
+    "cuisine": [
+      "Italian",
+      "Mexican"
+    ],
+    "capacity": 75,
+    "menu": [
+      {
+        "item": "Lasagna Bolognese",
+        "price": 240
+      },
+      {
+        "item": "Fettuccine Alfredo",
+        "price": 220
+      },
+      {
+        "item": "Bruschetta",
+        "price": 120
+      },
+      {
+        "item": "Spaghetti Carbonara",
+        "price": 250
+      },
+      {
+        "item": "Margherita Pizza",
+        "price": 190
+      },
+      {
+        "item": "Chicken Parmesan",
+        "price": 300
+      }
+    ],
+    "bookings": []
+  },
+  {
+    "id": 175,
+    "name": "Osaka Eats",
+    "location_area": "Chandni Chowk",
+    "cuisine": [
+      "Japanese"
+    ],
+    "capacity": 75,
+    "menu": [
+      {
+        "item": "Edamame",
+        "price": 100
+      },
+      {
+        "item": "Tonkotsu Ramen",
+        "price": 290
+      },
+      {
+        "item": "Chicken Teriyaki Don",
+        "price": 340
+      },
+      {
+        "item": "Sushi Platter (12 pcs)",
+        "price": 480
+      }
+    ],
+    "bookings": []
+  }
+]

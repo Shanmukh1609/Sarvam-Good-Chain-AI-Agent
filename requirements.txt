@@ -1,0 +1,7 @@
+streamlit
+requests
+Faker
+python-dotenv
+cerebras-cloud-sdk
+streamlit
+"qrcode[pil]"
